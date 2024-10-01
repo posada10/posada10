@@ -56,5 +56,5 @@ Soy Full Stack Developer con experiencia en tecnologías de vanguardia, trabajan
 
 ## Conéctate conmigo 🌍
 
-- [GitHub](https://github.com/tuusuario)
-- [LinkedIn](https://linkedin.com/in/tuusuario)
+- [GitHub](https://github.com/posada10) 
+- [LinkedIn](https://www.linkedin.com/in/posada10/)
