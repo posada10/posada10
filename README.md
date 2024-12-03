@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Ingeniero Posada 👋</h1>
+<h1 align="center">¡Hola! Soy Johan Posada 👋</h1>
 <h3 align="center">Full Stack Developer | Lilab | Innovando y automatizando procesos</h3>
 
 <p align="center">
